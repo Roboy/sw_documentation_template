@@ -1,0 +1,23 @@
+Technical Risks
+===============
+
+**Contents.**
+
+A list of identified technical risks, ordered by priority.
+The full list of risks can be found in the *Risikomanagementakte*
+
+.. todo::
+	Insert link to the Risikomanagementakte
+
+**Motivation.**
+
+“Risk management is project management for grown-ups” (Tim Lister,
+Atlantic Systems Guild.) This should be your motto for systematic
+detection and evaluation of technical risks in the architecture, which
+will be needed by project management as part of the overall risk
+analysis.
+
+**Form.**
+
+List of risks with probability of occurrence, amount of damage, options
+for risk avoidance or risk mitigation, …
