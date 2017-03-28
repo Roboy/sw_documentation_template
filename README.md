@@ -1,8 +1,10 @@
 # Welcome to the Roboy sw_documentation_template
 Template for documenting software requirements and software architectures
+
 ----
 [![Documentation Status](http://readthedocs.org/projects/roboy-sw-documentation-template/badge/?version=latest)](http://roboy-sw-documentation-template.readthedocs.io/en/latest/?badge=latest)
 ----
+
 Its a sphinx project, just run
     make html
 to generate the output.
