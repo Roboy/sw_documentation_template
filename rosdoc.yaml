@@ -2,4 +2,4 @@
   sphinx_root_dir: documentation
   output_dir: sphinx
 - builder: doxygen
-  output_dir: sphinx/doxyxml
+  output_dir: doxyxml
