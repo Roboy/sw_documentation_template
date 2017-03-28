@@ -22,11 +22,11 @@
 
 import sphinx_rtd_theme
 import subprocess, os
-import breathe
 
-read_the_docs_build = os.environ.get('READTHEDOCS', None) == 'True'
-if read_the_docs_build:
-    subprocess.call('cd ../doxygen; doxygen', shell=True)
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+if on_rtd:
+  from subprocess import call
+  call('doxygen')
 
 # -- General configuration ------------------------------------------------
 
