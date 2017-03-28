@@ -1,5 +1,5 @@
 - builder: sphinx
-  spinx_root_dir: documentation
-  output_dir: documentation/build
+  sphinx_root_dir: documentation
+  output_dir: sphinx
 - builder: doxygen
-  output_dir: documentation/doxyxml
+  output_dir: sphinx/doxyxml
