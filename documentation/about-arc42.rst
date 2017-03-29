@@ -1,5 +1,6 @@
 About arc42
 ===========
+This information should stay in every repository as per their license: http://www.arc42.de/template/licence.html
 
 arc42, the Template for documentation of software and system
 architecture.
