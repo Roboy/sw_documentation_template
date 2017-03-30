@@ -1,14 +1,11 @@
-Welcome to the Roboy sw_documentation_template
-===============================================
+# Welcome to the Roboy sw_documentation_template
 [![Documentation Status](http://readthedocs.org/projects/roboy-sw-documentation-template/badge/?version=latest)](http://roboy-sw-documentation-template.readthedocs.io/en/latest/?badge=latest)
 
 Template for documenting software requirements and software architectures
 
-Getting started
-----------------
+## Getting started
 
-Install
-^^^^^^^^
+### Install
 
 - Git clone this repo into your project folder
 - Remove the .git folder: `rm -rf .git`
@@ -20,8 +17,8 @@ Install
   - Look through other settings such as:
     - `htmlhelp_basename`
 
-Build
-^^^^^^
+### Build
+
 
 Its a sphinx project containing a doxygen setup, just run
     cd documentation
@@ -32,17 +29,16 @@ to generate the output.
 
 Open the index.html file in the ./documentation/build folder
 
-Deploy
-^^^^^^^
+### Deploy
+
 
 Log into the Roboy READTHEDOCS at http://readthedocs.io/ and add your repo there.
 
 
-Acknowledgement
-----------------
+## Acknowledgement
 
 The template is based on http://arc42.de/template/index.html
 
-License
----------
+## License
+
 Its licensed as 'very much resembles the Creative Commons Attribution License': http://arc42.de/template/licence.html
