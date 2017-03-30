@@ -1,7 +1,7 @@
 .. _technical-interfaces:
 
-Technical Interface
--------------------
+Technical Interfaces
+--------------------
 
 This section describes the data interfaces to other systems around it. It follows 3 of the `levels of interoperability <https://en.wikipedia.org/wiki/Conceptual_interoperability>`_ (**IO**):
 
@@ -31,5 +31,6 @@ Semantic IO
 ##############
 
 The package names or registers or
+
 .. doxygenclass:: Nutshell
   :members:

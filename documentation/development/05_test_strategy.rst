@@ -2,8 +2,8 @@ Test Strategy
 ================
 
 .. todo::
-  Describe:
-  
+  If you have any tests describe:
+
   - Where the tests are kept.
   - How the tests are invoked.
   - What you can/need to test manually.

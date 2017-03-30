@@ -14,7 +14,7 @@ Welcome to Architecture Documentation Wiki's documentation!
 .. _background_prerequisits:
 
 Relevant Background Information and Pre-Requisits
-------------------
+--------------------------------------------------
 
 .. todo::
   Describe what a potential user needs to be familiar with. What should they read and understand beforehand
@@ -58,18 +58,15 @@ Contents:
 
   ScopeContext/*
 
-.. _Development:
+.. _development:
 .. toctree::
   :maxdepth: 1
   :glob:
   :caption: Development
 
-  Development/*
+  development/*
 
 .. toctree::
    :maxdepth: 1
 
    about-arc42
-   template-whitebox
-   template-blackbox-short
-   template-blackbox-long

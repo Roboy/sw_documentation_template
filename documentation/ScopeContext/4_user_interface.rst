@@ -30,6 +30,3 @@ Static UI
 .. figure:: images/wireframe_kit_free_11.*
 
   Mock-up screens of the individual views/screens of the GUI i.e. Wireframes, whiteboard sketches
-
-
-.. _technical-interfaces:

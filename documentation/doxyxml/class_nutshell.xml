@@ -33,7 +33,7 @@
 <para>The various tools we can opt to use to crack this particular nut </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="14" column="1" bodyfile="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" bodystart="14" bodyend="18"/>
+        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="23" column="1" bodyfile="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" bodystart="23" bodyend="27"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-attrib">
@@ -48,7 +48,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="39" column="1" bodyfile="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" bodystart="39" bodyend="-1"/>
+        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="47" column="1" bodyfile="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" bodystart="47" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -63,7 +63,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="21" column="1"/>
+        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="30" column="1"/>
       </memberdef>
       <memberdef kind="function" id="class_nutshell_1aa7e84b812e4489584093a76da864297e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -76,7 +76,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="24" column="1"/>
+        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="33" column="1"/>
       </memberdef>
       <memberdef kind="function" id="class_nutshell_1a57fc2641156575ef8d655b6c90a1a17d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -88,9 +88,9 @@
           <declname>tool</declname>
         </param>
         <briefdescription>
-        </briefdescription>
+<para>Crack that shell with specified tool. </para>        </briefdescription>
         <detaileddescription>
-<para>Crack that shell with specified tool</para><para><parameterlist kind="param"><parameteritem>
+<para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>tool</parametername>
 </parameternamelist>
@@ -101,7 +101,7 @@
 </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="30" column="1"/>
+        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="38" column="1"/>
       </memberdef>
       <memberdef kind="function" id="class_nutshell_1a510c746ef3f7c1b54139124afa657b66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -115,14 +115,14 @@
 </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="35" column="1"/>
+        <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="43" column="1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="10" column="1" bodyfile="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" bodystart="10" bodyend="40"/>
+    <location file="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" line="19" column="1" bodyfile="/home/rapha/Development/Roboy/sw_documentation_template/src/nutshell.h" bodystart="19" bodyend="48"/>
     <listofallmembers>
       <member refid="class_nutshell_1a57fc2641156575ef8d655b6c90a1a17d" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>crack</name></member>
       <member refid="class_nutshell_1a510c746ef3f7c1b54139124afa657b66" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>isCracked</name></member>
