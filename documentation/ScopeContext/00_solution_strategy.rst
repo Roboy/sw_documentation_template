@@ -1,0 +1,21 @@
+Solution Strategy
+=================
+
+.. todo::
+  Describe your solution strategy.
+
+  **Contents.**
+
+  A short summary and explanation of the fundamental solution ideas and
+  strategies.
+
+  **Motivation.**
+
+  An architecture is often based upon some key solution ideas or
+  strategies. These ideas should be familiar to everyone involved into the
+  architecture.
+
+  **Form.**
+
+  Diagrams and / or text, as appropriate. Keep it short, i.e. 1 or 2 pages
+  at most!

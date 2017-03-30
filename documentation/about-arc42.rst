@@ -23,7 +23,7 @@ http://arc42.de/sonstiges/contributors.html
 
 
 Literature and references
-=========================
+--------------------------
 
 Starke-2014
     Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer
@@ -36,7 +36,7 @@ Zörner-2013
     Verlag, 2012
 
 Examples
-========
+--------------------------
 
 -  `HTML Sanity
    Checker <http://aim42.github.io/htmlSanityCheck/hsc_arc42.html>`__
@@ -54,7 +54,7 @@ Examples
    (german)
 
 Acknowledgements and collaborations
-===================================
+----------------------------------------------------
 
 arc42 originally envisioned by `Dr. Peter
 Hruschka <http://b-agile.de>`__ and `Dr. Gernot
@@ -73,7 +73,7 @@ fork the repository mentioned over this lines and send us a *pull
 request*!
 
 Collaborators
--------------
+--------------------------
 
 We are very thankful and acknowledge the support and help provided by
 all active and former collaborators, uncountable (anonymous) advisors,

@@ -1,24 +1,14 @@
 Design Decisions
 ================
+This can document decisions on the design of the software.
 
-**Contents.**
+.. todo::
+  If you want to use it, keep track of decisions that someone further developing this software or using it in the future might want to know about.
+  This might save them time or clarify expectations.
+  You can put them as a list, or whatever.
 
-Design decision are documented in the associated Design RFC.
 
-.. todo:
-	Insert link to list of design RFCs
-
-**Motivation.**
-
-It is advantageous if all important design decisions can be found in one
-place. 
-
-**Form.**
-
-Informal list, if possible ordered by the decisions’ importance for the
-reader.
-
-Decision Topic Suggestions
+Things to consider
 ---------------------------
 
 -  What exactly is the challenge?
