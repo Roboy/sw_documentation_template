@@ -1,9 +1,9 @@
-.. Architecture Documentation Wiki documentation master file, created by
+.. Software Documentation template master file, created by
    sphinx-quickstart on Fri Jul 29 19:44:29 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Architecture Documentation Wiki's documentation!
+Welcome to Software Documentation Template!
 ===========================================================
 
 

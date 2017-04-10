@@ -13,7 +13,7 @@ Template for documenting software requirements and software architectures
   - Name the project correctly: i.e. `PROJECT_NAME= "Software Documentation Template"`
   - Point to the correct all of your source and include folders: i.e. `INPUT= ../src ../include`
 - Adapt the conf.py in ./documentation/conf.py to:
-  - Name the project and author correctly: starting here: `project = u'Architecture Documentation Wiki'`
+  - Name the project and author correctly: starting here: `project = u'Software Documentation Template'`
   - Look through other settings such as:
     - `htmlhelp_basename`
 
