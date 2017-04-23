@@ -34,7 +34,7 @@ make clean html
 ```
 to generate the output.
 
-Open the index.html file in the ./documentation/build/html folder
+Open the `index.html` file in the `./documentation/build/html` folder
 
 ### Deploy
 
