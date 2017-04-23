@@ -9,7 +9,7 @@ Template for documenting software requirements and software architectures
 
 - Git clone this repo into your project folder
 - Remove the .git folder inside sw_documentation_template: `rm -rf sw_documentation_template/.git`
-- Install the dependencies: `pip install -r .../sw_documentation_template/documentation/requirements.txt`
+- Install the dependencies: `sudo pip install -r ../sw_documentation_template/documentation/requirements.txt`
 - Adapt the Doxyfile in ./documentation/Doxyfile to:
   - Name the project correctly: i.e. `PROJECT_NAME= "Software Documentation Template"`
   - Point to the correct all of your source and include folders: i.e. `INPUT= ../src ../include`
