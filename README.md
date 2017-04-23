@@ -22,10 +22,16 @@ Template for documenting software requirements and software architectures
 
 
 Its a sphinx project containing a doxygen setup, just run
-    cd documentation
-    doxygen
-    cd ..
-    make clean html
+```
+!#/bash
+cd documentation
+doxygen
+```
+```
+!#/bash
+cd ..
+make clean html
+```
 to generate the output.
 
 Open the index.html file in the ./documentation/build folder
