@@ -11,7 +11,8 @@ This can document decisions on the design of the software.
   *Things to consider:*
 
 
-  -  What exactly is the challenge?
+  -  the changes are made regarding the app requirement
+  
 
   -  Why is it relevant for the architecture?
 
